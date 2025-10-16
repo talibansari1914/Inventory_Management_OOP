@@ -1,0 +1,5 @@
+ID,name,price,stock,category
+101,Laptop,70000.0,5,Electronics
+102,Refrigerator,40000.0,7,Electronics
+103,Notebook,2000.0,10,Book
+104,Jockey,500.0,14,Clothes
