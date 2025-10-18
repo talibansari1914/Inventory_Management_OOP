@@ -1,12 +1,28 @@
-# Instructions for Students
+\# Inventory Management System
 
-# Fill in the missing code as per the instructions provided in comments.
 
-# Follow OOP principles and ensure proper use of classes, methods, and error handling.
 
-# Project instructions and overview.
+\## Problem Statement
 
-# TODO: Implement this file
+Design a system to manage products in a store. Each product has an ID, name, price, and stock.
+
+The system should allow:
+
+\- Adding/removing products
+
+\- Updating stock
+
+\- Generating summary reports
+
+
+
+\## Extended Scope
+
+\- Manage product categories
+
+\- Export reports (CSV/JSON)
+
+\- Custom exception handling
 
 
 
@@ -48,31 +64,8 @@ inventory\_management/
 
 
 
-\# Inventory Management System
 
 
-
-\## Problem Statement
-
-Design a system to manage products in a store. Each product has an ID, name, price, and stock.
-
-The system should allow:
-
-\- Adding/removing products
-
-\- Updating stock
-
-\- Generating summary reports
-
-
-
-\## Extended Scope
-
-\- Manage product categories
-
-\- Export reports (CSV/JSON)
-
-\- Custom exception handling
 
 
 
