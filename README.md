@@ -41,50 +41,50 @@ cd inventory-management-system
 
 ### Example Workflow
 - ===============Menu Options===============
-1.Add Product
-2.Remove Product
-3.Update Stock
-4.Update Price
-5.Apply Discount
-6.Show Reports
-7.Export Data
-8.Exit
+- 1.Add Product
+- 2.Remove Product
+- 3.Update Stock
+- 4.Update Price
+- 5.Apply Discount
+- 6.Show Reports
+- 7.Export Data
+- 8.Exit
 
-User Input: 1
-Enter product_id: 105
-Enter product_name: Smartphone
-Enter product_price: 25000.0
-Enter stock: 3
-Enter category_name: Electronics
-'Product(105, Smartphone, Price: 25000.0, Stock: 3, Category: Electronics)' added to the Product List..
-===============Menu Options===============
-1.Add Product
-2.Remove Product
-3.Update Stock
-4.Update Price
-5.Apply Discount
-6.Show Reports
-7.Export Data
-8.Exit
+- User Input: 1
+- Enter product_id: 105
+- Enter product_name: Smartphone
+- Enter product_price: 25000.0
+- Enter stock: 3
+- Enter category_name: Electronics
+- 'Product(105, Smartphone, Price: 25000.0, Stock: 3, Category: Electronics)' added to the Product List..
+- ===============Menu Options===============
+- 1.Add Product
+- 2.Remove Product
+- 3.Update Stock
+- 4.Update Price
+- 5.Apply Discount
+- 6.Show Reports
+- 7.Export Data
+- 8.Exit
 
-User Input:8
-..exit..
+- User Input:8
+- ..exit..
 
 
 ##  Sample Output
 ### Total Inventory Report
-========Inventory Value=========
-Total Inventory Value=659000.0  # (e.g., after adding samples)
+- ========Inventory Value=========
+- Total Inventory Value=659000.0  # (e.g., after adding samples)
 
 ### Low Stock Alert
-====Low Stock Item info====
-'Jockey' has left only '4' stock
+- ====Low Stock Item info====
+- 'Jockey' has left only '4' stock
 
 ### Category Summary
-======Category Summary======
-Category Name='Electronics' ,Count='3'
-Category Name='Book' ,Count='1'
-Category Name='Clothes' ,Count='1'
+- ======Category Summary======
+- Category Name='Electronics' ,Count='3'
+- Category Name='Book' ,Count='1'
+- Category Name='Clothes' ,Count='1'
 
 
 ##  Testing & Edge Cases
@@ -101,8 +101,6 @@ Love the project? Fork it, make improvements (e.g., GUI with Tkinter, DB integra
 
 Issues? Open one with details – happy to collaborate! 
 
-##  License
-This project is licensed under the MIT License – free to use, modify, and distribute. See [LICENSE](LICENSE) for details.
 
 ##  Author
 - **Abbu Talib Ansari** | [GitHub](https://github.com/talibansari1914)
